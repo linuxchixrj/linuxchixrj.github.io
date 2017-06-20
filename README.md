@@ -1,4 +1,4 @@
-# O que é LinuxChix?
+# O que é Linux Chix?
 
  É um grupo internacional de usuários e desenvolvedores de Software Livre, fundado em 1999 com o objetivo de apoiar as mulheres no Linux.
  A fundadora Deb Richardson descreveu isso como uma alternativa à atmosfera do vestiário encontrado em alguns fóruns técnicos on-line e deu ao LinuxChix duas regras básicas: seja educado e seja útil. 
