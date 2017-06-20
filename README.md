@@ -22,3 +22,6 @@
 
 # Encontro
 ### Em breve
+
+# Fique Conosco
+[![telegram](http://icon-icons.com/icons2/923/PNG/72/telegram_icon-icons.com_72055.png)](https://t.me/LinuxChix_RJ)
