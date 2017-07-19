@@ -4,7 +4,7 @@
  A fundadora Deb Richardson descreveu isso como uma alternativa à atmosfera de vestiário encontrado em alguns fóruns técnicos on-line e deu ao Linux Chix duas regras básicas: seja educado e seja útil. 
   Linux Chix é agora muitas coisas para muitas pessoas, mas continua sendo principalmente um grupo para apoiar mulheres em computação, especificamente em computação Livre / Software Livre.
 
- A Deb Richardson iniciou o Linux Chix porque estava cansada de ver novos usuários estarem sendo repreendidos por fazerem perguntas estúpida. Ela queria tentar criar uma comunidade mais hospitaleira na qual as pessoas possam discutir o Linux, uma comunidade que encoraja a participação.
+ A Deb Richardson iniciou o Linux Chix porque estava cansada de ver novos usuários estarem sendo repreendidos por fazerem "perguntas estúpidas". Ela queria tentar criar uma comunidade mais hospitaleira na qual as pessoas possam discutir o Linux, uma comunidade que encoraja a participação.
 
 ## Regras
  A diretriz original da Deb era ser educada, porém as regras são claras:
