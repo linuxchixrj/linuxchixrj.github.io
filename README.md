@@ -26,6 +26,10 @@
 ### Horário: 14:00 até as 18:00
 ### Local: Stone Pagamentos - Av. Gen. Justo 375, Centro. Sala DOJO (8º Andar)
 
+Nesse Primeiro encontro vamos ensinar a utilizar o Shell do Linux, em um workshop todo prático... 
+
+Tragam seus computadores.
+
 ### [**Inscrições**](https://goo.gl/h2yKUt)
 
 # Fique Conosco
