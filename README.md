@@ -21,7 +21,12 @@
 ### Em breve
 
 # Encontro
-### Em breve
+
+### Data: 5 de Agosto de 2017 
+### Horário: 14:00 até as 18:00
+### Local: Stone Pagamentos - Av. Gen. Justo 375, Centro. Sala DOJO (8º Andar)
+
+### [Inscrições](https://goo.gl/h2yKUt)
 
 # Fique Conosco
-### Em breve
+[![email](http://icon-icons.com/icons2/272/PNG/72/Email_30017.png)](mailto:linuxchix.rj@gmail.com)
