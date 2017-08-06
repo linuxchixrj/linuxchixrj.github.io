@@ -15,7 +15,7 @@
  Em outras palavras, não precisamos de um livro de regras longo e detalhado, basta ser educado e útil.
 
 ## Workshops
-* [** Shell 101 - Tutorial para iniciantes em Shell **](https://linuxchix-rj.gitbooks.io/linux-shell-101/content)
+* [**Shell 101 - Tutorial para iniciantes em Shell**](https://linuxchix-rj.gitbooks.io/linux-shell-101/content)
 
 ## Traduções
 ### Em breve
