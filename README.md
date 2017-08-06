@@ -14,23 +14,28 @@
  
  Em outras palavras, não precisamos de um livro de regras longo e detalhado, basta ser educado e útil.
 
-# Workshops
+## Workshops
+* [** Shell 101 - Tutorial para iniciantes em Shell **](https://linuxchix-rj.gitbooks.io/linux-shell-101/content)
+
+## Traduções
 ### Em breve
 
-# Traduções
-### Em breve
+## Encontro
 
-# Encontro
+### Data: 
+em breve 
 
-### Data: 5 de Agosto de 2017 
-### Horário: 14:00 até as 18:00
-### Local: Stone Pagamentos - Av. Gen. Justo 375, Centro. Sala DOJO (8º Andar)
+### Horário: 
+em breve
 
-Nesse Primeiro encontro vamos ensinar a utilizar o Shell do Linux, em um workshop todo prático... 
+### Local: 
+em breve
+
+Nesse Segundo encontro vamos ensinar a utilizar o Tsuru, em um workshop todo prático... 
 
 Tragam seus computadores.
 
-### [**Inscrições**](https://goo.gl/h2yKUt)
+### [**Inscrições**](#)
 
-# Fique Conosco
+## Fique Conosco
 [![email](http://icon-icons.com/icons2/272/PNG/72/Email_30017.png)](mailto:linuxchix.rj@gmail.com)
