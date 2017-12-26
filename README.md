@@ -23,19 +23,15 @@
 ## Encontro
 
 ### Data: 
-2 de Setembro de 2017 
+### Em breve 
 
 ### Horário: 
-Das 14:00 até 18:00
+### Em breve
 
 ### Local: 
-Infnet - Rua São José 90, Centro. Sala 102
+### Em breve
 
-Nesse Segundo encontro vamos ensinar a utilizar o Tsuru, em um workshop todo prático, por isso tragam seus computadores. \O
-
-Tragam seus computadores.
-
-### [**Inscrições**](https://goo.gl/H7RnNW)
+### [**Inscrições**] (Em breve)
 
 ## Fique Conosco
 [![email](http://icon-icons.com/icons2/272/PNG/72/Email_30017.png)](mailto:linuxchix.rj@gmail.com)
